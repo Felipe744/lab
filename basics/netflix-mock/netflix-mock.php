@@ -2,7 +2,7 @@
 
 echo "Hello world";
 
-$nomeFilme = "Top Gun - Maverick";
+$nomeFilme = "Top Gun - Maverick teste";
 $anoLancamento = 2022;
 $notaFilme = 8.8;
 $incluidoNoPlano = true;
